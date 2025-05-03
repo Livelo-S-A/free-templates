@@ -56,7 +56,7 @@ After collecting the data, we utilize Generative AI to categorize qualitative re
 This structure ensures that we gather comprehensive and relevant data while keeping the form simple and quick to fill out.
 
 ## The Report
-The report includes several key views: a comparison with the previous survey, the overall DevEx Score (the KPI itself), demographic data, detailed ratings, a ranking of the survey's top positive and negative items, insights, and recent advances along with items we plan to address in the coming months.
+The report includes several key views: a comparison with the previous survey, the overall DevEx Score (the KPI itself), demographics (optional), detailed ratings, a ranking of the survey's top positive and negative items, insights, and recent advances along with items we plan to address in the coming months.
 
 Before generating the final report, we conduct a thorough internal review of the data to ensure accuracy and completeness. Once the review is finalized, the report is distributed to stakeholders via email and communication platforms such as Microsoft Teams or Slack. Additionally, we hold sessions with interested professionals to discuss advances, problems, and opportunities. This communication is crucial as it helps us connect better with our internal customers and demonstrate results over time.
 
