@@ -13,6 +13,7 @@ Welcome to the Livelo DevEx Report Template repository! This repository contains
 - #the-report
 - #final-considerations
 - #license
+- #download
 
 ## Introduction
 
@@ -70,3 +71,9 @@ We are constantly seeking new technologies, methodologies, and practices to enha
 The templates in this repository are licensed under the Creative Commons BY-NC-SA 4.0 license. This means that you are free to use, modify, and share the templates, provided that you give appropriate credit, do not use them for commercial purposes, and distribute any derivative works under the same license.
 
 For more details, please refer to the [LICENSE](../LICENSE.md) file.
+
+## Downloads
+- [Sample PDF](Template%20DevEx%20Report.pdf)
+- [Editable PPTX](Template%20DevEx%20Report.pptx)
+
+
