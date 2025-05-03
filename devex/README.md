@@ -2,7 +2,7 @@
 
 Welcome to the Livelo DevEx Report Template repository! This repository contains a comprehensive template designed to help you create detailed and insightful reports based on the Developer Experience (DevEx) Survey at Livelo. This template is part of our broader initiative to enhance the developer experience and drive continuous improvement within our organization.
 
-![Alt text](devex-report.png?raw=true "Report template")
+![Report example](devex-report.png)
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ Currently, the idea of treating internal development platforms as a product is r
 
 In the Platform Engineering division, we use OKRs (Objectives and Key Results) to set our quarterly objectives and track our progress. To enhance and monitor our performance, we have defined Key Performance Indicators (KPIs) using a layer-by-layer approach based on stakeholder groups. This method allows us to align with broader business objectives and provides valuable insights into whether those objectives are being met.
 
-![Alt text](kpi-example.png?raw=true "KPIs by stakeholder group example.")
+![KPI examples](kpi-example.png)
 
 One of the KPIs we track is the DevEx Score, derived from our Developer Experience Survey. This score measures the satisfaction from the primary users of our technical platforms - the developers. Beyond the score itself, we gather valuable insights for continuous improvement, fostering a culture of innovation and excellence within the company.
 
