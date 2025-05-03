@@ -4,16 +4,16 @@ Welcome to the Livelo DevEx Report Template repository! This repository contains
 
 ![Report example](devex-report.png)
 
-## Table of Contents
+# Table of Contents
 
-- #introduction
-- #platform-as-a-product
-- #kpis
-- #the-survey
-- #the-report
-- #final-considerations
-- #license
-- #download
+- [Introduction](#introduction)
+- [Platform as a Product](#platform-as-a-product)
+- [KPIs](#kpis)
+- [The survey](#the-survey)
+- [The report](#the-report)
+- [Final considerations](#final-considerations)
+- [License](#license)
+- [Downloads](#download)
 
 ## Introduction
 
