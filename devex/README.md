@@ -68,10 +68,4 @@ We are constantly seeking new technologies, methodologies, and practices to enha
 
 The templates in this repository are licensed under the Creative Commons BY-NC-SA 4.0 license. This means that you are free to use, modify, and share the templates, provided that you give appropriate credit, do not use them for commercial purposes, and distribute any derivative works under the same license.
 
-For more details, please refer to the LICENSE.md file.
-
-## Contact
-
-If you have any questions or need further assistance, please feel free to contact us at support@livelo.com.
-
-Thank you for using the Livelo DevEx Report Template!
+For more details, please refer to the [LICENSE](../LICENSE.md) file.
