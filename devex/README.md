@@ -13,7 +13,7 @@ Welcome to the Livelo DevEx Report Template repository! This repository contains
 - [The report](#the-report)
 - [Final considerations](#final-considerations)
 - [License](#license)
-- [Downloads](#download)
+- [Downloads](#downloads)
 
 ## Introduction
 
